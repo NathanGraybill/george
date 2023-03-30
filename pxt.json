@@ -2,7 +2,8 @@
     "name": "George",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "George": "github:NathanGraybill/george#fc366813d5c7767c188928c7cfaa6a499a4c1874"
     },
     "files": [
         "main.blocks",
